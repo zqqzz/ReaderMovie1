@@ -1,0 +1,97 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.10.3",
+	"appid": "wxc319547eabc6f714",
+	"projectname": "ReaderMovie1",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "进入小程序页面",
+					"pathName": "pages/welcome/welcome",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "文与字页面",
+					"pathName": "pages/posts/posts",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "阅读详情页",
+					"pathName": "pages/posts/post-detail/post-detail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "商品分类",
+					"pathName": "pages/classify/classify",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "电影",
+					"pathName": "pages/movies/movies",
+					"scene": null
+				}
+			]
+		}
+	}
+}

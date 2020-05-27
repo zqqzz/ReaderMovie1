@@ -1,0 +1,9 @@
+@import "../movie/movie-template.wxss";
+.single-view-container{
+    float: left;/*在小程序中flex对scroll-view无效*/
+    margin-bottom: 40rpx;
+}
+.grid-container{
+    height:1300rpx;
+    margin: 40rpx 0 40rpx 6rpx;
+}
